@@ -4,7 +4,7 @@ import path from "path";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/React_Form_Validations/",
+  base: "/alexter2003.github.io/",
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
